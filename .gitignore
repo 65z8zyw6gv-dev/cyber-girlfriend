@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+*.key
+笔记.txt
+待办清单.json
